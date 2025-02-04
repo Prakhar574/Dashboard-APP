@@ -17,7 +17,6 @@ This React-based web application allows users to interact with real-time data us
 
 ## Features
 ![Screenshot 2025-02-05 040956](https://github.com/user-attachments/assets/0e7044f5-3683-446b-813f-f84b76bb6699)
-![Screenshot 2025-02-05 040956](https://github.com/user-attachments/assets/a20851c4-6afa-44d5-8b06-360dc44a1d47)
 ![Screenshot 2025-02-05 041015](https://github.com/user-attachments/assets/ec7df71f-cd53-4bf2-a70a-fa27a00be06a)
 ![Screenshot 2025-02-05 041029](https://github.com/user-attachments/assets/9cbd89d4-275d-4da4-a871-2b0ac5e7d37a)
 ![Screenshot 2025-02-05 041058](https://github.com/user-attachments/assets/423e945e-5c77-4320-88d2-8fe32ba26d45)
